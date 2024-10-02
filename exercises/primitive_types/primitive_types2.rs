@@ -7,10 +7,6 @@
 // for a hint.
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 1f3cbd2539077ab6471e6235afeea21f46df7860
 fn main() {
     // Characters (`char`)
 
@@ -25,12 +21,7 @@ fn main() {
         println!("Neither alphabetic nor numeric!");
     }
 
-<<<<<<< HEAD
     let your_character = '@';// Finish this line like the example! What's your favorite character?
-=======
-    let your_character = '😍';
-     // Finish this line like the example! What's your favorite character?
->>>>>>> 1f3cbd2539077ab6471e6235afeea21f46df7860
     // Try a letter, try a number, try a special character, try a character
     // from a different language than your own, try an emoji!
     if your_character.is_alphabetic() {

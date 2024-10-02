@@ -15,12 +15,7 @@ fn main() {
         println!("Good morning!");
     }
 
-<<<<<<< HEAD
     let is_evening = false;// Finish the rest of this line like the example! Or make it be false!
-=======
-    let is_evening=false;
-     // Finish the rest of this line like the example! Or make it be false!
->>>>>>> 1f3cbd2539077ab6471e6235afeea21f46df7860
     if is_evening {
         println!("Good evening!");
     }

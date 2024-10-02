@@ -7,11 +7,7 @@
 
 
 fn main() {
-<<<<<<< HEAD
     let a = [0; 1000];
-=======
-    let a = "👌😘💕👍";
->>>>>>> 1f3cbd2539077ab6471e6235afeea21f46df7860
 
     if a.len() >= 100 {
         println!("Wow, that's a big array!");
