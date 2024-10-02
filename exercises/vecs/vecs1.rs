@@ -10,7 +10,11 @@
 
 fn array_and_vec() -> ([i32; 4], Vec<i32>) {
     let a = [10, 20, 30, 40]; // a plain array
+<<<<<<< HEAD
     let v = vec![10, 20, 30, 40];// TODO: declare your vector here with the macro for vectors
+=======
+    let v = vec![10,20,30,40]; // TODO: declare your vector here with the macro for vectors
+>>>>>>> 1f3cbd2539077ab6471e6235afeea21f46df7860
 
     (a, v)
 }

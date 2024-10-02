@@ -4,7 +4,13 @@
 // hint.
 
 
+<<<<<<< HEAD
 fn main() {
     let x: i32 = 10;
+=======
+
+fn main() {
+    let x: i32=0;
+>>>>>>> 1f3cbd2539077ab6471e6235afeea21f46df7860
     println!("Number {}", x);
 }

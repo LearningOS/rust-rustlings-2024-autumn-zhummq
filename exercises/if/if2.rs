@@ -9,10 +9,17 @@
 pub fn foo_if_fizz(fizzish: &str) -> &str {
     if fizzish == "fizz" {
         "foo"
+<<<<<<< HEAD
     } else if fizzish == "fuzz" {
         "bar"
     } else {
         "baz"
+=======
+    } else if fizzish=="fuzz" {
+        "bar"
+    } else {
+           "baz"
+>>>>>>> 1f3cbd2539077ab6471e6235afeea21f46df7860
     }
 }
 

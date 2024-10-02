@@ -4,7 +4,11 @@
 // hint.
 
 
+<<<<<<< HEAD
 const NUMBER: i32 = 3;
+=======
+const NUMBER : i32 = 3;
+>>>>>>> 1f3cbd2539077ab6471e6235afeea21f46df7860
 fn main() {
     println!("Number {}", NUMBER);
 }
